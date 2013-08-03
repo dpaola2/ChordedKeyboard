@@ -74,7 +74,8 @@ char alphabet[] = {
 'w',
 'x',
 'y',
-'z'
+'z',
+' '
 };
 
 // set pin numbers:
